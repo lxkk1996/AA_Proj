@@ -1,0 +1,48 @@
+\t (00:00:09) allegro 17.2 S057 Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Sat Jun 20 15:50:26 2020
+\t (00:00:09)         Host=LAPTOP-LXKK User=Li Xiang Pid=8136 CPUs=4
+\t (00:00:09) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:09) 
+   (00:00:10) Loading axlcore.cxt 
+\t (00:00:11) Starting new design...
+\i (00:00:13) trapsize 29310
+\i (00:00:14) generaledit 
+\i (00:00:17) trapsize 1100
+\i (00:00:17) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:17) opencd E:/A_Project/AA_Proj/allegro/AA_05122213.brd 
+\t (00:00:17) Opening existing design...
+\i (00:00:18) trapsize 361
+\d (00:00:18) Design opened: E:/A_Project/AA_Proj/allegro/AA_05122213.brd
+\i (00:00:18) generaledit 
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in -1545.0 1182.5
+\i (00:00:21) trapsize 181
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -2061.2 1258.3
+\i (00:00:22) trapsize 361
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -1165.8 -265.1
+\i (00:00:47) trapsize 181
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out -851.7 -312.0
+\i (00:00:47) trapsize 361
+\i (00:00:49) zoom fit 
+\i (00:00:49) trapsize 170
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out -423.6 -260.2
+\i (00:00:50) trapsize 340
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in -1029.1 -1178.8
+\i (00:00:56) trapsize 170
+\i (00:00:56) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out -1029.1 -1175.4
+\i (00:00:57) trapsize 340
+\i (00:10:31) exit 
+\t (00:10:32)     Journal end - Sat Jun 20 16:00:48 2020

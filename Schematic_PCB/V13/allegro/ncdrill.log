@@ -1,0 +1,61 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : AA_05122213.brd                               )
+(    Software Version : 17.2S057                                      )
+(    Date/Time        : Thu May 14 15:01:14 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 8 slot holes that cannot be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'E:/A_Project/AA_Proj/allegro' ...
+
+
+
+     'AA_05122213-1-2.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.0000    0.0000/  0.0000      PLATED        226
+            2.  35.4000    0.0000/  0.0000      PLATED         15
+            3.  39.4000    0.0000/  0.0000      PLATED         84
+            4.  23.6000    0.0000/  0.0000  NON_PLATED          2
+            5.  35.4000    0.0000/  0.0000  NON_PLATED          2
+            6. 137.8000    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                        333
+
+     ---- Total head travel:              16.81 feet (5.12 meters)
+

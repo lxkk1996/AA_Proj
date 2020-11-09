@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : AA_05122213.brd                               )
+(    Software Version : 17.2S057                                      )
+(    Date/Time        : Thu May 14 13:37:52 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:/A_Project/AA_Proj/allegro'
+Design Directory:            'E:/A_Project/AA_Proj/allegro'
+Old design name:             'E:/A_Project/AA_Proj/allegro/AA_05122213.brd'
+New design name:             'E:/A_Project/AA_Proj/allegro/AA_05122213.brd'
+
+CmdLine: netrev -$ -i E:/A_Project/AA_Proj/allegro -y 1 -h -q netrev_constraint_report.xml E:/A_Project/AA_Proj/allegro/#Taaaacg10980.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/A_Project/AA_Proj/allegro/pstchip.dat 
+   Finished reading E:/A_Project/AA_Proj/allegro/pstchip.dat (00:00:00.03)
+Starting to read E:/A_Project/AA_Proj/allegro/pstxprt.dat 
+   Finished reading E:/A_Project/AA_Proj/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/A_Project/AA_Proj/allegro/pstxnet.dat 
+   Finished reading E:/A_Project/AA_Proj/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/Cadence/MY_Lib/Foot_Print/_Symbol/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/Cadence/MY_Lib/Foot_Print/_Pad/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on May 14 13:37:52 2020
+   DESIGN NAME : 'AA_SCH'
+   PACKAGING ON Jul  8 2019 18:16:32
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:03:14
+elapsed time  0:00:01
+

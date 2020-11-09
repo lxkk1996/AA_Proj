@@ -1,0 +1,82 @@
+Thu May 14 11:31:33 2020				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Thu May 14 11:31:33 2020
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : AA_05122213.brd                               )
+(    Software Version : 17.2S057                                      )
+(    Date/Time        : Thu May 14 11:31:35 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu May 14 11:31:35 2020				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'E:/A_Project/AA_Proj/allegro/AA_05122213.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/LIXIAN~1/AppData/Local/Temp/#Taaaaar00856.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/Cadence/MY_Lib/Foot_Print/_Symbol/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/Cadence/MY_Lib/Foot_Print/_Pad/ 
+
+
+------ Symbol Refresh Messages ------
+
+'T_PLUG'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'TH_S_254_450'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

@@ -1,0 +1,497 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : AA_05122213.brd                               )
+(    Software Version : 17.2S057                                      )
+(    Date/Time        : Thu May 14 15:01:30 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < E:/A_Project/AA_Proj/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05540                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  SQUARE     0.05540                     0.000 NO     DARK 
+  RECTANGLE  0.01570     x 0.05310       0.000 NO     DARK 
+  RECTANGLE  0.03110     x 0.01020       0.000 NO     DARK 
+  RECTANGLE  0.03110     x 0.01020      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.04920      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      45.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.08460      90.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.07870       0.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.07870      90.000 NO     DARK 
+  RECTANGLE  0.04720     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.04720     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.01400      45.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.01400     135.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05120       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.09450     135.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.07090       0.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.07870     x 0.04720       0.000 NO     DARK 
+  RECTANGLE  0.09070     x 0.04410      90.000 NO     DARK 
+  RECTANGLE  0.11420     x 0.04720       0.000 NO     DARK 
+  RECTANGLE  0.11420     x 0.04720      90.000 NO     DARK 
+  RECTANGLE  0.11420     x 0.21260      90.000 NO     DARK 
+  RECTANGLE  0.12800     x 0.08460      90.000 NO     DARK 
+  RECTANGLE  0.34060     x 0.41810      90.000 NO     DARK 
+  OBLONG     0.05220     x 0.02360      90.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870       0.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870     179.926 NO     DARK 
+  OBLONG     0.17720     x 0.07870      90.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780       0.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < E:/A_Project/AA_Proj/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05540                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  SQUARE     0.05540                     0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940      45.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940     135.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.05910      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      45.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940     135.000 NO     DARK 
+  RECTANGLE  0.05710     x 0.08660      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.09450       0.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.07090      90.000 NO     DARK 
+  RECTANGLE  0.07870     x 0.04720      90.000 NO     DARK 
+  OBLONG     0.05220     x 0.02360       0.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870       0.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870     179.926 NO     DARK 
+  OBLONG     0.17720     x 0.07870      90.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780       0.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DRILL_DRAWING >
+     TO FILE < E:/A_Project/AA_Proj/allegro/DRILL_DRAWING.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-2404.0 -4785.0) in MIL
+           ... using undefined line width of 6.0 MIL
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.0 MIL
+
+    WARNING: text composed 0 width line found at (-1954.5 -2064.5) in MIL
+           ... using undefined line width of 6.0 MIL
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.0 MIL
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+
+     DRILL_DRAWING created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < E:/A_Project/AA_Proj/allegro/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.03150     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940      45.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940     135.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.05910      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      45.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940     135.000 NO     DARK 
+  RECTANGLE  0.05710     x 0.08660      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.09450       0.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.07090      90.000 NO     DARK 
+  RECTANGLE  0.07870     x 0.04720      90.000 NO     DARK 
+  OBLONG     0.05220     x 0.02360       0.000 NO     DARK 
+
+     PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < E:/A_Project/AA_Proj/allegro/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.01570     x 0.05310       0.000 NO     DARK 
+  RECTANGLE  0.03110     x 0.01020       0.000 NO     DARK 
+  RECTANGLE  0.03110     x 0.01020      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.04920      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      45.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03940      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.08460      90.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.07870       0.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.07870      90.000 NO     DARK 
+  RECTANGLE  0.04720     x 0.03940       0.000 NO     DARK 
+  RECTANGLE  0.05120     x 0.04130       0.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.01400      45.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.01400     135.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05120       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.09450     135.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.07090       0.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.07870     x 0.04720       0.000 NO     DARK 
+  RECTANGLE  0.09070     x 0.04410      90.000 NO     DARK 
+  RECTANGLE  0.11810     x 0.05120       0.000 NO     DARK 
+  RECTANGLE  0.11810     x 0.05120      90.000 NO     DARK 
+  RECTANGLE  0.11810     x 0.21650      90.000 NO     DARK 
+  RECTANGLE  0.12800     x 0.08460      90.000 NO     DARK 
+  RECTANGLE  0.34060     x 0.41810      90.000 NO     DARK 
+  OBLONG     0.05220     x 0.02360      90.000 NO     DARK 
+
+     PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < E:/A_Project/AA_Proj/allegro/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00780                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     SILKSCREEN_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < E:/A_Project/AA_Proj/allegro/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDMASK_TOP >
+     TO FILE < E:/A_Project/AA_Proj/allegro/SOLDMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02760                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05540                                  DARK 
+  CIRCLE     0.07480                                  DARK 
+  CIRCLE     0.13780                                  DARK 
+  SQUARE     0.05540                     0.000 NO     DARK 
+  RECTANGLE  0.01970     x 0.05710       0.000 NO     DARK 
+  RECTANGLE  0.03110     x 0.01020       0.000 NO     DARK 
+  RECTANGLE  0.03110     x 0.01020      90.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.04330      90.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.05310      90.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.07870       0.000 NO     DARK 
+  RECTANGLE  0.03940     x 0.07870      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.04330       0.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.04330      45.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.04330      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.08860      90.000 NO     DARK 
+  RECTANGLE  0.05120     x 0.04130       0.000 NO     DARK 
+  RECTANGLE  0.05120     x 0.04330       0.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.01400      45.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.01400     135.000 NO     DARK 
+  RECTANGLE  0.06690     x 0.05510       0.000 NO     DARK 
+  RECTANGLE  0.06690     x 0.09840     135.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.07870     x 0.07870       0.000 NO     DARK 
+  RECTANGLE  0.08270     x 0.05120       0.000 NO     DARK 
+  RECTANGLE  0.09070     x 0.04410      90.000 NO     DARK 
+  RECTANGLE  0.11810     x 0.05120       0.000 NO     DARK 
+  RECTANGLE  0.11810     x 0.05120      90.000 NO     DARK 
+  RECTANGLE  0.11810     x 0.21650      90.000 NO     DARK 
+  RECTANGLE  0.13190     x 0.08860      90.000 NO     DARK 
+  RECTANGLE  0.34060     x 0.41810      90.000 NO     DARK 
+  OBLONG     0.05220     x 0.02360      90.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870       0.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870     179.926 NO     DARK 
+  OBLONG     0.17720     x 0.07870      90.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780       0.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780      90.000 NO     DARK 
+
+     SOLDMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDMASK_BOTTOM >
+     TO FILE < E:/A_Project/AA_Proj/allegro/SOLDMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02760                                  DARK 
+  CIRCLE     0.03940                                  DARK 
+  CIRCLE     0.05540                                  DARK 
+  CIRCLE     0.07480                                  DARK 
+  CIRCLE     0.13780                                  DARK 
+  SQUARE     0.05540                     0.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.04330       0.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.04330      45.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.04330      90.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.04330     135.000 NO     DARK 
+  RECTANGLE  0.03540     x 0.06300      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.04330       0.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.04330      45.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.04330      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.04330     135.000 NO     DARK 
+  RECTANGLE  0.06100     x 0.09060      90.000 NO     DARK 
+  RECTANGLE  0.06690     x 0.09840       0.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.07480      90.000 NO     DARK 
+  RECTANGLE  0.08270     x 0.05120      90.000 NO     DARK 
+  OBLONG     0.05220     x 0.02360       0.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870       0.000 NO     DARK 
+  OBLONG     0.15750     x 0.07870     179.926 NO     DARK 
+  OBLONG     0.17720     x 0.07870      90.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780       0.000 NO     DARK 
+  OBLONG     0.21650     x 0.13780      90.000 NO     DARK 
+
+     SOLDMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < E:/A_Project/AA_Proj/allegro/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.0 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+
+     OUTLINE created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        DRILL_DRAWING created with warnings
+        PASTEMASK_BOTTOM created.
+        PASTEMASK_TOP created.
+        SILKSCREEN_TOP created.
+        SILKSCREEN_BOTTOM created.
+        SOLDMASK_TOP created.
+        SOLDMASK_BOTTOM created.
+        OUTLINE created.
+
+ ARTWORK had warnings

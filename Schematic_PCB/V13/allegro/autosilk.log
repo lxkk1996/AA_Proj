@@ -1,0 +1,31 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Silkscreen Audit Log File                                        )
+(                                                                     )
+(    Drawing          : AA_Last.brd                                   )
+(    Software Version : 17.2S057                                      )
+(    Date/Time        : Fri Apr 10 20:51:31 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Auditing silkscreen for both sides of the board.
+
+Element to Pad clearance is 0.0
+
+     ----- Top Silkscreen Audit -----
+
+
+Audit Errors: 0
+
+
+     ----- Bottom Silkscreen Audit -----
+
+
+Audit Errors: 0
+
+
+Total Audit Errors: 0
+
+Log End
+

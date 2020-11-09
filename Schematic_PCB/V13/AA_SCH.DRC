@@ -1,0 +1,285 @@
+Date and Time : 04/18/20 22:57:30
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (156.21, 62.23) 
+WARNING(ORCAP-1829): Possible pin type conflict U8,CSA  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (270.51, 176.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U8,CSB  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (280.67, 176.53) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 111.76) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_1  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 114.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_2  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 116.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_3  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 119.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_4  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 121.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_5  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 124.46) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_6  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 127.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_7  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 129.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSS_8  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 132.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,VSSA  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (52.07, 137.16) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (48.26, 254.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U13,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (270.51, 234.95) 
+WARNING(ORCAP-1829): Possible pin type conflict U13,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (295.91, 247.65) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (394.97, 137.16) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (394.97, 142.24) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,GND  Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (367.03, 144.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,PB12  Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (190.50, 86.36) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,INT  Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (48.26, 226.06) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections PF13 
+                    SCHEMATIC1, PAGE1  (323.85, 88.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG3 
+                    SCHEMATIC1, PAGE1  (386.08, 20.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF14 
+                    SCHEMATIC1, PAGE1  (323.85, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA15 
+                    SCHEMATIC1, PAGE1  (190.50, 50.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE2 
+                    SCHEMATIC1, PAGE1  (323.85, 17.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE4 
+                    SCHEMATIC1, PAGE1  (323.85, 22.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF6 
+                    SCHEMATIC1, PAGE1  (323.85, 71.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG4 
+                    SCHEMATIC1, PAGE1  (386.08, 22.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF3 
+                    SCHEMATIC1, PAGE1  (323.85, 63.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF7 
+                    SCHEMATIC1, PAGE1  (323.85, 73.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA0 
+                    SCHEMATIC1, PAGE1  (190.50, 12.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD2 
+                    SCHEMATIC1, PAGE1  (271.78, 60.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF8 
+                    SCHEMATIC1, PAGE1  (323.85, 76.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD12 
+                    SCHEMATIC1, PAGE1  (271.78, 86.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG6 
+                    SCHEMATIC1, PAGE1  (386.08, 27.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG7 
+                    SCHEMATIC1, PAGE1  (386.08, 30.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB1 
+                    SCHEMATIC1, PAGE1  (190.50, 58.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF1 
+                    SCHEMATIC1, PAGE1  (323.85, 58.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF9 
+                    SCHEMATIC1, PAGE1  (323.85, 78.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF12 
+                    SCHEMATIC1, PAGE1  (323.85, 86.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB3 
+                    SCHEMATIC1, PAGE1  (190.50, 63.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections ADC123_11 
+                    SCHEMATIC1, PAGE1  (271.78, 15.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA3 
+                    SCHEMATIC1, PAGE1  (190.50, 20.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE1 
+                    SCHEMATIC1, PAGE1  (323.85, 15.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC13 
+                    SCHEMATIC1, PAGE1  (271.78, 45.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD3 
+                    SCHEMATIC1, PAGE1  (271.78, 63.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG8 
+                    SCHEMATIC1, PAGE1  (386.08, 33.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG11 
+                    SCHEMATIC1, PAGE1  (386.08, 40.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD13 
+                    SCHEMATIC1, PAGE1  (271.78, 88.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA2 
+                    SCHEMATIC1, PAGE1  (190.50, 17.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE0 
+                    SCHEMATIC1, PAGE1  (323.85, 12.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF5 
+                    SCHEMATIC1, PAGE1  (323.85, 68.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections UART3_TX 
+                    SCHEMATIC1, PAGE1  (271.78, 38.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections ADC123_13 
+                    SCHEMATIC1, PAGE1  (271.78, 20.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE3 
+                    SCHEMATIC1, PAGE1  (323.85, 20.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections OSC32_OUT 
+                    SCHEMATIC1, PAGE1  (276.35, 50.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB2 
+                    SCHEMATIC1, PAGE1  (190.50, 60.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections ADC12_15 
+                    SCHEMATIC1, PAGE1  (271.78, 25.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF2 
+                    SCHEMATIC1, PAGE1  (323.85, 60.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD6 
+                    SCHEMATIC1, PAGE1  (271.78, 71.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2C1_SDA 
+                    SCHEMATIC1, PAGE1  (190.50, 78.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD11 
+                    SCHEMATIC1, PAGE1  (261.62, 83.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG10 
+                    SCHEMATIC1, PAGE1  (386.08, 38.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2C1_SCL 
+                    SCHEMATIC1, PAGE1  (190.50, 76.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF0 
+                    SCHEMATIC1, PAGE1  (323.85, 55.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF4 
+                    SCHEMATIC1, PAGE1  (323.85, 66.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections OSC32_IN 
+                    SCHEMATIC1, PAGE1  (276.35, 48.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG1 
+                    SCHEMATIC1, PAGE1  (386.08, 15.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB14 
+                    SCHEMATIC1, PAGE1  (190.50, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections ADC123_12 
+                    SCHEMATIC1, PAGE1  (271.78, 17.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF15 
+                    SCHEMATIC1, PAGE1  (323.85, 93.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections ADC123_10 
+                    SCHEMATIC1, PAGE1  (271.78, 12.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF10 
+                    SCHEMATIC1, PAGE1  (323.85, 81.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG2 
+                    SCHEMATIC1, PAGE1  (386.08, 17.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC12 
+                    SCHEMATIC1, PAGE1  (271.78, 43.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF11 
+                    SCHEMATIC1, PAGE1  (323.85, 83.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB0 
+                    SCHEMATIC1, PAGE1  (190.50, 55.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections UART6_RX 
+                    SCHEMATIC1, PAGE1  (386.08, 35.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB15 
+                    SCHEMATIC1, PAGE1  (190.50, 93.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PG0 
+                    SCHEMATIC1, PAGE1  (386.08, 12.70) 
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: AA_SCH 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? 5V  5V  L_LOG+  R_LOG+  D1_POWER+  D2_POWER+  USB_5V  
+                    SCHEMATIC1, PAGE1  (265.43, 111.76) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U8,LV-VSS  LV-VSS  5V
+                    SCHEMATIC1, PAGE1  (265.43, 118.11) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? GND  GND  INPUT_GND  L_LOG-  R_LOG-  D1_POWER-  D2_POWER-  REG_GND  USB_GND  
+                    SCHEMATIC1, PAGE1  (50.04, 114.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS  VSS  GND
+                    SCHEMATIC1, PAGE1  (52.07, 111.76) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_1  VSS_1  GND
+                    SCHEMATIC1, PAGE1  (52.07, 114.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_2  VSS_2  GND
+                    SCHEMATIC1, PAGE1  (52.07, 116.84) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_3  VSS_3  GND
+                    SCHEMATIC1, PAGE1  (52.07, 119.38) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_4  VSS_4  GND
+                    SCHEMATIC1, PAGE1  (52.07, 121.92) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_5  VSS_5  GND
+                    SCHEMATIC1, PAGE1  (52.07, 124.46) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_6  VSS_6  GND
+                    SCHEMATIC1, PAGE1  (52.07, 127.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_7  VSS_7  GND
+                    SCHEMATIC1, PAGE1  (52.07, 129.54) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSS_8  VSS_8  GND
+                    SCHEMATIC1, PAGE1  (52.07, 132.08) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VSSA  VSSA  GND
+                    SCHEMATIC1, PAGE1  (52.07, 137.16) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VBAT  VBAT  3V3
+                    SCHEMATIC1, PAGE1  (52.07, 147.32) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VREF+  VREF+  3V3
+                    SCHEMATIC1, PAGE1  (52.07, 142.24) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD  VDD  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 111.76) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_11  VDD_11  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 139.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_1  VDD_1  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 114.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_2  VDD_2  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 116.84) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_3  VDD_3  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 119.38) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_4  VDD_4  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 121.92) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_5  VDD_5  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 124.46) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_6  VDD_6  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 127.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_7  VDD_7  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 129.54) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_8  VDD_8  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 132.08) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_9  VDD_9  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 134.62) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDD_10  VDD_10  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 137.16) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VDDA  VDDA  3V3
+                    SCHEMATIC1, PAGE1  (97.79, 144.78) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U10,VDD  VDD  3V3
+                    SCHEMATIC1, PAGE1  (48.26, 213.36) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U10,VLOGIC  VLOGIC  3V3
+                    SCHEMATIC1, PAGE1  (48.26, 218.44) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U15,VDD  VDD  3V3
+                    SCHEMATIC1, PAGE1  (394.97, 139.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U15,VDD  VDD  3V3
+                    SCHEMATIC1, PAGE1  (367.03, 142.24) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U5,Vout  Vout  3V3
+                    SCHEMATIC1, PAGE1  (111.76, 59.69) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U5,Vout  Vout  3V3
+                    SCHEMATIC1, PAGE1  (111.76, 59.69) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? 12V  12V  INPUT_POWER  BAT_INPUT  
+                    SCHEMATIC1, PAGE1  (322.58, 128.27) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U8,SV-VS  SV-VS  12V
+                    SCHEMATIC1, PAGE1  (285.75, 118.11) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

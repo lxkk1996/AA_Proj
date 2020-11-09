@@ -1,0 +1,8 @@
+BMP_Decode.pbi: E:\_Projects\AA_Proj\MX\Src\BMP\BMP_Decode.c \
+  E:\_Projects\AA_Proj\MX\EWARM/../Inc\BMP_Decode.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  D:\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  D:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h

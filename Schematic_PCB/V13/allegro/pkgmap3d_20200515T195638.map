@@ -1,0 +1,78 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<STEP-3D-MAPPING revision="A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header lengthUnit="MILS"/>
+  <Body>
+    <MapItem package="R0603">
+      <StepModel type="PRIMARY" file="RESISTOR_0603.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="C0603">
+      <StepModel type="PRIMARY" file="CAPACITOR_0603.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="C_TAN3216">
+      <StepModel type="PRIMARY" file="CAP_TAN_C3216_1206.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="LED0805">
+      <StepModel type="PRIMARY" file="LED0805.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOT223_4">
+      <StepModel type="PRIMARY" file="SOT223.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="90.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="QFN50P400X400X95-24N">
+      <StepModel type="PRIMARY" file="MPU6050.STEP">
+        <Offset x="80.000000" y="80.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="180.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="LQFP144-20X20MM">
+      <StepModel type="PRIMARY" file="LQFP144-20x20mm.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MICRO_USB">
+      <StepModel type="PRIMARY" file="Micro USB2.step">
+        <Offset x="0.000000" y="110.000000" z="272.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="KEY_8_36_2PIN">
+      <StepModel type="PRIMARY" file="Tact switch 1181_3.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="HEAD_4PIN">
+      <StepModel type="PRIMARY" file="1x4 TH Pitch 2_54mm.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="OLED_I2C">
+      <StepModel type="PRIMARY" file="OLED_I2C_128x64.step">
+        <Offset x="1354.328490" y="-283.995211" z="149.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="HEAD_3PIN">
+      <StepModel type="PRIMARY" file="1x3 TH Pitch 2_54mm.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    </Body>
+  </STEP-3D-MAPPING>

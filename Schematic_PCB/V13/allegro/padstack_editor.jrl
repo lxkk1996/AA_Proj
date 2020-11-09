@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 17.2 S057 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Apr 18 12:14:04 2020
+\t (00:00:00)         Host=LAPTOP-LXKK User=Li Xiang Pid=940 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession Li Xiang -file C:/Users/LIXIAN~1/AppData/Local/Temp/#Taaaabr05932.tmp -pname VIA_13_20-1 -data C:/Users/LIXIAN~1/AppData/Local/Temp/#Taaaabt05932.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\t (00:00:03)     Journal end - Sat Apr 18 12:14:07 2020

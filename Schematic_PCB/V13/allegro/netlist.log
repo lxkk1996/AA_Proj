@@ -1,0 +1,37 @@
+{ Using PSTWRITER 17.2.0 d001May-14-2020 at 13:37:46 }
+
+#1 WARNING(ORCAP-36006): Part Name "HEAD_3PIN_HEAD_3PIN_DIGIT1_CONTROL" is renamed to "HEAD_3PIN_HEAD_3PIN_DIGIT1_CONT".
+#2 WARNING(ORCAP-36006): Part Name "HEAD_3PIN_HEAD_3PIN_DIGIT2_CONTROL" is renamed to "HEAD_3PIN_HEAD_3PIN_DIGIT2_CONT".
+#3 WARNING(ORCAP-36006): Part Name "HEAD_2PIN_HEAD_2PIN_BLUETOOTH_AT_JUMP" is renamed to "HEAD_2PIN_HEAD_2PIN_BLUETOOTH_A".
+#4 WARNING(ORCAP-36006): Part Name "HEAD_2PIN_XHB_254_2PIN_AD590_CONNECT" is renamed to "HEAD_2PIN_XHB_254_2PIN_AD590_CO".
+#5 WARNING(ORCAP-36006): Part Name "HEAD_4PIN_XHB_254_4PIN_BACKUP_COMPWM" is renamed to "HEAD_4PIN_XHB_254_4PIN_BACKUP_C".
+#6 WARNING(ORCAP-36006): Part Name "KEY_FIVE_WAY_4_KEY_K1-1504SA-03_KEY_FIVE_WAY" is renamed to "KEY_FIVE_WAY_4_KEY_K1-1504SA-03".
+#7 WARNING(ORCAP-36006): Part Name "PUSHBUTTON_2PIN_KEY_8_36_2PIN_PUSHBUTTON_2PIN" is renamed to "PUSHBUTTON_2PIN_KEY_8_36_2PIN_P".
+#8 WARNING(ORCAP-36006): Part Name "SWITCH_3PIN_SWITCH_SS12D10_SWITCH_3PIN" is renamed to "SWITCH_3PIN_SWITCH_SS12D10_SWIT".
+#9 WARNING(ORCAP-36006): Part Name "MPU-6050_QFN50P400X400X95-24N_MPU-6050" is renamed to "MPU-6050_QFN50P400X400X95-24N_M".
+#10 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package MSD_HC05 , U13: SCHEMATIC1, PAGE1 (273.05, 194.31).
+#11 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#21" as visible power pin of same name already exists in Package MSD_HC05 , U13: SCHEMATIC1, PAGE1 (273.05, 194.31).
+#12 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#25" as visible power pin of same name already exists in Package TFT_LCD , U15: SCHEMATIC1, PAGE1 (369.57, 113.03).
+#13 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#27" as visible power pin of same name already exists in Package TFT_LCD , U15: SCHEMATIC1, PAGE1 (369.57, 113.03).
+#14 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#22" as visible power pin of same name already exists in Package TFT_LCD , U15: SCHEMATIC1, PAGE1 (369.57, 113.03).
+#15 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#24" as visible power pin of same name already exists in Package TFT_LCD , U15: SCHEMATIC1, PAGE1 (369.57, 113.03).
+#16 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package TFT_LCD , U15: SCHEMATIC1, PAGE1 (369.57, 113.03).
+#17 WARNING(ORCAP-36006): Part Name "BAT_INPUT_XHB_254_2PIN_REGULATOR_INPUT" is renamed to "BAT_INPUT_XHB_254_2PIN_REGULATO".
+#18 WARNING(ORCAP-36042): Pin "SW" is renamed to "SW#3" as visible power pin of same name already exists in Package XL4015 , U2: SCHEMATIC1, PAGE1 (93.98, 3.81).
+#19 WARNING(ORCAP-36042): Pin "SW" is renamed to "SW#6" as visible power pin of same name already exists in Package XL4015 , U2: SCHEMATIC1, PAGE1 (93.98, 3.81).
+#20 WARNING(ORCAP-36006): Part Name "STM32F4XXZ1_LQFP144-20X20MM_VALUE" is renamed to "STM32F4XXZ1_LQFP144-20X20MM_VAL".
+#21 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#2" as visible power pin of same name already exists in Package LM1117 , U5: SCHEMATIC1, PAGE1 (88.90, 54.61).
+#22 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#4" as visible power pin of same name already exists in Package LM1117 , U5: SCHEMATIC1, PAGE1 (88.90, 54.61).
+#23 WARNING(ORCAP-36006): Part Name "HEAD_6PIN_XHB_254_6PIN_MOTION_CONTROL_L" is renamed to "HEAD_6PIN_XHB_254_6PIN_MOTION_C".
+#24 WARNING(ORCAP-36006): Part Name "HEAD_6PIN_XHB_254_6PIN_MOTION_CONTROL_R" is renamed to "HEAD_6PIN_XHB_254_6PIN_MOTION_1".
+#25 WARNING(ORCAP-36006): Part Name "CRYSTAL OSCILLATOR_2PIN_OSC_MSD5032_8M_OSC" is renamed to "CRYSTAL OSCILLATOR_2PIN_OSC_MSD".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\A_PROJECT\AA_PROJ\allegro/pstchip.dat
+
+Loading... E:\A_PROJECT\AA_PROJ\allegro/pstchip.dat
+
+Loading... E:\A_PROJECT\AA_PROJ\allegro/pstchip.dat
+
+Loading... E:\A_PROJECT\AA_PROJ\allegro/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>E:\A_Project\AA_Proj\MX\Inc\mpu6050.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\A_Project\AA_Proj\MX\Src\MPU6050\mpu6050.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\A_Project\AA_Proj\MX\Src\OLED\OLED.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Inc\Menu.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Src\Afile\My_Menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Src\Call_Back\Call_Back.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Src\MPU6050\mpu6050.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Src\OLED\OLED.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Src\RGB\RGB_LED.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Src\TFT\LCD_RTS.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\_Projects\AA_Proj\MX\Src\TFT\Menu\Menu.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>

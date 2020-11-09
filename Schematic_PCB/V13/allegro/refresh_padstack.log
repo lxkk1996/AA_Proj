@@ -1,0 +1,203 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : AA_04102124.brd                               )
+(    Software Version : 17.2S057                                      )
+(    Date/Time        : Sat Apr 18 12:13:52 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Apr 18 12:13:52 2020				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/A_Project/AA_Proj/allegro/AA_04102124.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/Cadence/MY_Lib/Foot_Print/_Symbol/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/Cadence/MY_Lib/Foot_Print/_Pad/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'R_10_20'  pad stack refresh starting.
+
+     'R_10_20'  pad stack refreshed successfully.
+     
+'T_Q90_140_M140'  pad stack refresh starting.
+
+     'T_Q90_140_M140'  pad stack refreshed successfully.
+     
+'T_N90_140_M140'  pad stack refresh starting.
+
+     'T_N90_140_M140'  pad stack refreshed successfully.
+     
+'TH_CIR_10_18'  pad stack refresh starting.
+
+     'TH_CIR_10_18'  pad stack refreshed successfully.
+     
+'TH_CIR_13_20'  pad stack refresh starting.
+
+     'TH_CIR_13_20'  pad stack refreshed successfully.
+     
+'R19_19'  pad stack refresh starting.
+
+     'R19_19'  pad stack refreshed successfully.
+     
+'R29_54'  pad stack refresh starting.
+
+     'R29_54'  pad stack refreshed successfully.
+     
+'R18_18'  pad stack refresh starting.
+
+     'R18_18'  pad stack refreshed successfully.
+     
+'R29_12'  pad stack refresh starting.
+
+     'R29_12'  pad stack refreshed successfully.
+     
+'TH_R_3_08'  pad stack refresh starting.
+
+     'TH_R_3_08'  pad stack refreshed successfully.
+     
+'R16_24'  pad stack refresh starting.
+
+     'R16_24'  pad stack refreshed successfully.
+     
+'R16_13'  pad stack refresh starting.
+
+     'R16_13'  pad stack refreshed successfully.
+     
+'R107_3'  pad stack refresh starting.
+
+     'R107_3'  pad stack refreshed successfully.
+     
+'R08_10'  pad stack refresh starting.
+
+     'R08_10'  pad stack refreshed successfully.
+     
+'TH_R_35_08'  pad stack refresh starting.
+
+     'TH_R_35_08'  pad stack refreshed successfully.
+     
+'MEC_CIR_09'  pad stack refresh starting.
+
+     'MEC_CIR_09'  pad stack refreshed successfully.
+     
+'R09_125'  pad stack refresh starting.
+
+     'R09_125'  pad stack refreshed successfully.
+     
+'MEC_CIR_35'  pad stack refresh starting.
+
+     'MEC_CIR_35'  pad stack refreshed successfully.
+     
+'R20_12'  pad stack refresh starting.
+
+     'R20_12'  pad stack refreshed successfully.
+     
+'R12_10'  pad stack refresh starting.
+
+     'R12_10'  pad stack refreshed successfully.
+     
+'MEC_CIR_06'  pad stack refresh starting.
+
+     'MEC_CIR_06'  pad stack refreshed successfully.
+     
+'R095_10'  pad stack refresh starting.
+
+     'R095_10'  pad stack refreshed successfully.
+     
+'R04_135'  pad stack refresh starting.
+
+     'R04_135'  pad stack refreshed successfully.
+     
+'RX53Y14D0T'  pad stack refresh starting.
+
+     'RX53Y14D0T'  pad stack refreshed successfully.
+     
+'R095_215'  pad stack refresh starting.
+
+     'R095_215'  pad stack refreshed successfully.
+     Sat Apr 18 12:13:52 2020				Page     2
+
+
+     
+'R10_109'  pad stack refresh starting.
+
+     'R10_109'  pad stack refreshed successfully.
+     
+'R325_215'  pad stack refresh starting.
+
+     'R325_215'  pad stack refreshed successfully.
+     
+'S_R79_26_M79_26_P79_26'  pad stack refresh starting.
+
+     'S_R79_26_M79_26_P79_26'  pad stack refreshed successfully.
+     
+'TH_S_254_450'  pad stack refresh starting.
+
+     'TH_S_254_450'  pad stack refreshed successfully.
+     
+'B132_60'  pad stack refresh starting.
+
+     'B132_60'  pad stack refreshed successfully.
+     
+'VIA_13_20'  pad stack refresh starting.
+
+     'VIA_13_20'  pad stack refreshed successfully.
+     
+'VIA_24_40'  pad stack refresh starting.
+
+     'VIA_24_40'  pad stack refreshed successfully.
+     
+'VIA26'  pad stack refresh starting.
+
+     'VIA26'  pad stack refreshed successfully.
+     
+'VIA_12_20'  pad stack refresh starting.
+
+     'VIA_12_20'  pad stack refreshed successfully.
+     
+'R12_06'  pad stack refresh starting.
+
+     'R12_06'  pad stack refreshed successfully.
+     
+'R145_20'  pad stack refresh starting.
+
+     'R145_20'  pad stack refreshed successfully.
+     
+'R08_15'  pad stack refresh starting.
+
+     'R08_15'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'R12_145'  pad stack refresh starting.
+
+     'R12_145'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
